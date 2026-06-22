@@ -20,6 +20,16 @@ This service catches all of that **before** it becomes a problem.
 
 ---
 
+## Live demo
+
+A deployed version of this service is running here:
+
+🔗 **[https://cpattanayak--guardrail-with-action-layer-fastapi-app.modal.run/docs](https://cpattanayak--guardrail-with-action-layer-fastapi-app.modal.run/docs)**
+
+Open the link, click **"Try it out"** on `/guardrail/check`, paste a test message, and hit **Execute** to see the live guardrail report — no setup required.
+
+
+
 ## The Big Picture (Architecture)
 
 ![AI Guardrail Service Architecture](guardrail_architecture.png)
